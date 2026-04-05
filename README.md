@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack Project (for a E-commerce website))<br>🤝 I’m looking for help with my placements, time management and Projects<br>🌱 I’m currently learning DSA in Python, Full Stack Development<br>⚡ Fun fact about me? <br>      I can still complete my work before the deadline while procrastinating
+🤝 I’m looking for help with my placements, time management and Projects<br>🌱 I’m currently learning DSA in Python, Full Stack Development<br>⚡ Fun fact about me? <br>      I can still complete my work before the deadline while procrastinating
 
 
 ## 🌐 Socials:
